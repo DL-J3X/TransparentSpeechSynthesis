@@ -1,6 +1,7 @@
 # TransparentSpeechSynthesis
+
 Code and associated files for transparent speech synthesis.
 
-This work is conducted by researchers at WAVLab at Carnegie Mellon University's Language Technologies Institute.
+The goal of this project is to develop a speech synthesis system that is both clear and obviously synthetic. Our approach uses a novel approach – cocktail speaker decoding – for synthesis.
 
-More coming soon.
+Please check back soon for a link to the code, results, and final paper.
