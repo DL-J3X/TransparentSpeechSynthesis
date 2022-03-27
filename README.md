@@ -1,6 +1,6 @@
 # TransparentSpeechSynthesis
 
-Code and associated files for transparent speech synthesis.
+Various files for the transparent speech synthesis project.
 
 The goal of this project is to develop a speech synthesis system that is both clear and obviously synthetic. Our approach uses a novel approach – cocktail speaker decoding – for synthesis.
 
